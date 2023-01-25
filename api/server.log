@@ -1,0 +1,607 @@
+INFO 2022-08-31T16:02:10.589Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db connected
+INFO 2022-08-31T16:02:10.815Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | api started
+INFO 2022-09-02T12:51:54.770Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | 
+api stopped
+INFO 2022-09-02T12:51:54.795Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db disconnected
+INFO 2022-09-03T13:17:10.392Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db connected
+INFO 2022-09-03T13:17:10.499Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | api v1.0.0 started and listening in port 8080
+INFO 2022-09-03T13:17:25.847Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | 
+api stopped
+INFO 2022-09-03T13:17:25.863Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db disconnected
+INFO 2022-09-03T13:17:33.327Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db connected
+INFO 2022-09-03T13:17:33.427Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | api v1.0.0 started and listening in port 8080
+ERROR 2022-09-03T13:18:09.561Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\authenticateUserHandler.js | user with email Buamatias@hotmail.com not found
+ERROR 2022-09-03T13:18:16.526Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\authenticateUserHandler.js | user with email Buamatias@hotmail.com not found
+ERROR 2022-09-03T13:18:22.845Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\authenticateUserHandler.js | user with email Buamatias@hotmail.com not found
+ERROR 2022-09-03T13:18:27.765Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\authenticateUserHandler.js | user with email Buamatias@hotmail.com not found
+ERROR 2022-09-03T13:18:41.428Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\authenticateUserHandler.js | user with email el@patito.com not found
+ERROR 2022-09-03T13:19:34.447Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\authenticateUserHandler.js | user with email el@patito.com not found
+ERROR 2023-01-18T15:56:00.611Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | connect ECONNREFUSED ::1:27017
+INFO 2023-01-18T15:56:30.754Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db connected
+INFO 2023-01-18T15:56:30.902Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | api v1.0.0 started and listening in port 8080
+ERROR 2023-01-18T15:58:43.680Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\authenticateUserHandler.js | email is not a string
+ERROR 2023-01-18T16:00:56.349Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\authenticateUserHandler.js | email is not a string
+INFO 2023-01-18T16:03:14.150Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | 
+api stopped
+INFO 2023-01-18T16:03:14.156Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db disconnected
+INFO 2023-01-18T16:03:48.717Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db connected
+INFO 2023-01-18T16:04:19.469Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | api v1.0.0 started and listening in port 8080
+ERROR 2023-01-18T16:04:27.597Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\authenticateUserHandler.js | email is not a string
+INFO 2023-01-18T16:09:17.433Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | 
+api stopped
+INFO 2023-01-18T16:09:17.441Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db disconnected
+INFO 2023-01-18T16:09:21.271Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db connected
+INFO 2023-01-18T16:09:55.582Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db connected
+INFO 2023-01-18T16:09:55.672Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | api v1.0.0 started and listening in port 8080
+INFO 2023-01-18T16:09:58.171Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | 
+api stopped
+INFO 2023-01-18T16:09:58.176Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db disconnected
+INFO 2023-01-18T16:10:45.929Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db connected
+INFO 2023-01-18T16:11:35.825Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | api v1.0.0 started and listening in port 8080
+INFO 2023-01-18T16:15:09.575Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | 
+api stopped
+INFO 2023-01-18T16:15:09.585Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db disconnected
+INFO 2023-01-18T16:15:13.661Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db connected
+INFO 2023-01-18T16:15:20.384Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db connected
+INFO 2023-01-18T16:15:30.141Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db connected
+INFO 2023-01-18T16:15:30.226Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | api v1.0.0 started and listening in port 8080
+INFO 2023-01-18T16:19:57.363Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | 
+api stopped
+INFO 2023-01-18T16:19:57.370Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db disconnected
+INFO 2023-01-18T16:20:02.215Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db connected
+INFO 2023-01-18T16:20:02.298Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | api v1.0.0 started and listening in port 8080
+ERROR 2023-01-18T16:20:13.265Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\authenticateUserHandler.js | email is not a string
+ERROR 2023-01-18T16:20:32.458Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\authenticateUserHandler.js | email is not a string
+ERROR 2023-01-18T16:21:17.102Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\authenticateUserHandler.js | email is not a string
+ERROR 2023-01-18T16:22:27.496Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\authenticateUserHandler.js | email is not a string
+ERROR 2023-01-18T16:23:29.393Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\authenticateUserHandler.js | email is not a string
+ERROR 2023-01-18T16:23:42.828Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\authenticateUserHandler.js | email is not a string
+ERROR 2023-01-18T16:26:09.843Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\authenticateUserHandler.js | email is not a string
+ERROR 2023-01-18T16:31:23.833Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\authenticateUserHandler.js | email is not a string
+ERROR 2023-01-18T16:33:36.278Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\authenticateUserHandler.js | user with email Buamatias@hotmail.com not found
+ERROR 2023-01-18T16:34:18.523Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\authenticateUserHandler.js | wrong password
+ERROR 2023-01-19T11:32:23.853Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\authenticateUserHandler.js | email is not a string
+ERROR 2023-01-19T11:43:22.613Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\authenticateUserHandler.js | email is not a string
+ERROR 2023-01-19T11:46:26.122Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\authenticateUserHandler.js | email is not a string
+ERROR 2023-01-19T11:50:39.372Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\authenticateUserHandler.js | email is not a string
+ERROR 2023-01-19T11:56:39.189Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\authenticateUserHandler.js | email is not a string
+ERROR 2023-01-19T11:57:49.949Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\registerUserHandler.js | email is not a string
+ERROR 2023-01-19T11:57:57.773Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\registerUserHandler.js | name is not a string
+ERROR 2023-01-19T11:58:11.179Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\registerUserHandler.js | email is not a string
+ERROR 2023-01-19T11:59:07.348Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\retrieveUserHandler.js | authorization is not a string
+ERROR 2023-01-19T11:59:19.232Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\retrieveUserHandler.js | authorization is not a string
+ERROR 2023-01-19T11:59:30.035Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\registerUserHandler.js | email is not a string
+INFO 2023-01-19T12:02:34.458Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | 
+api stopped
+INFO 2023-01-19T12:02:34.484Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db disconnected
+INFO 2023-01-19T12:03:13.313Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db connected
+INFO 2023-01-19T12:03:13.439Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | api v1.0.0 started and listening in port 8080
+ERROR 2023-01-19T12:04:09.297Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\registerUserHandler.js | email is not a string
+ERROR 2023-01-19T12:04:10.521Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\registerUserHandler.js | email is not a string
+INFO 2023-01-19T12:05:16.986Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | 
+api stopped
+INFO 2023-01-19T12:05:16.991Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db disconnected
+INFO 2023-01-19T12:05:38.966Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db connected
+INFO 2023-01-19T12:05:39.087Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | api v1.0.0 started and listening in port 8080
+ERROR 2023-01-19T12:06:05.680Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\registerUserHandler.js | email is not a string
+ERROR 2023-01-19T12:09:02.094Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\retrieveUserHandler.js | invalid signature
+ERROR 2023-01-19T12:10:13.743Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\authenticateUserHandler.js | email is not a string
+ERROR 2023-01-19T12:10:29.409Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\authenticateUserHandler.js | user with email buamatias@hotmail.com not found
+ERROR 2023-01-19T12:20:00.364Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\retrieveUserHandler.js | invalid signature
+ERROR 2023-01-19T12:20:12.677Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\retrieveUserHandler.js | jwt must be provided
+ERROR 2023-01-19T12:21:46.977Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\retrieveUserHandler.js | jwt must be provided
+ERROR 2023-01-19T12:22:23.793Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\authenticateUserHandler.js | user with email buamatias@hotmail.com not found
+INFO 2023-01-19T12:25:42.376Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | 
+api stopped
+INFO 2023-01-19T12:25:42.383Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db disconnected
+INFO 2023-01-19T12:25:52.027Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db connected
+INFO 2023-01-19T12:25:52.160Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | api v1.0.0 started and listening in port 8080
+INFO 2023-01-19T12:33:14.567Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | 
+api stopped
+INFO 2023-01-19T12:33:14.572Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db disconnected
+INFO 2023-01-19T12:33:21.912Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db connected
+INFO 2023-01-19T12:33:21.988Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | api v1.0.0 started and listening in port 8080
+ERROR 2023-01-19T12:33:29.028Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\registerUserHandler.js | user already exists
+ERROR 2023-01-19T12:48:42.711Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\registerUserHandler.js | user already exists
+ERROR 2023-01-19T12:58:02.922Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\authenticateUserHandler.js | email is not a string
+INFO 2023-01-19T12:58:24.934Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | 
+api stopped
+INFO 2023-01-19T12:58:24.938Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db disconnected
+INFO 2023-01-19T12:58:32.997Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db connected
+INFO 2023-01-19T12:58:33.073Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | api v1.0.0 started and listening in port 8080
+ERROR 2023-01-19T13:00:23.869Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\authenticateUserHandler.js | email is not a string
+ERROR 2023-01-19T13:02:12.703Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\registerUserHandler.js | user already exists
+ERROR 2023-01-19T13:02:19.060Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\registerUserHandler.js | user already exists
+ERROR 2023-01-19T13:03:49.653Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\notes\retrieveNotesHandler.js | invalid signature
+ERROR 2023-01-19T13:04:43.667Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\authenticateUserHandler.js | password is not a string
+ERROR 2023-01-19T13:07:54.876Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\authenticateUserHandler.js | email is not a string
+ERROR 2023-01-19T13:23:46.099Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\authenticateUserHandler.js | email is not a string
+ERROR 2023-01-19T13:23:50.092Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\authenticateUserHandler.js | email is not a string
+ERROR 2023-01-19T13:25:29.204Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\authenticateUserHandler.js | email is not a string
+INFO 2023-01-19T13:25:39.312Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | 
+api stopped
+INFO 2023-01-19T13:25:39.316Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db disconnected
+INFO 2023-01-19T13:25:46.907Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db connected
+INFO 2023-01-19T13:25:47.007Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | api v1.0.0 started and listening in port 8080
+ERROR 2023-01-19T13:25:50.365Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\authenticateUserHandler.js | email is not a string
+ERROR 2023-01-19T13:51:29.280Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\authenticateUserHandler.js | email is not a string
+ERROR 2023-01-19T14:39:12.586Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\authenticateUserHandler.js | email is not a string
+INFO 2023-01-19T14:46:19.071Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | 
+api stopped
+INFO 2023-01-19T14:46:19.076Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db disconnected
+INFO 2023-01-19T14:46:21.985Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db connected
+INFO 2023-01-19T14:46:22.085Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | api v1.0.0 started and listening in port 8080
+INFO 2023-01-19T14:51:25.698Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | 
+api stopped
+INFO 2023-01-19T14:51:25.704Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db disconnected
+INFO 2023-01-19T14:51:28.587Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db connected
+INFO 2023-01-19T14:51:28.668Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | api v1.0.0 started and listening in port 8080
+INFO 2023-01-19T14:59:01.109Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | 
+api stopped
+INFO 2023-01-19T14:59:01.114Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db disconnected
+INFO 2023-01-19T14:59:03.251Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db connected
+INFO 2023-01-19T14:59:03.335Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | api v1.0.0 started and listening in port 8080
+INFO 2023-01-19T15:19:11.508Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | 
+api stopped
+INFO 2023-01-19T15:19:11.515Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db disconnected
+INFO 2023-01-19T15:19:22.251Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db connected
+INFO 2023-01-19T15:19:22.335Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | api v1.0.0 started and listening in port 8080
+INFO 2023-01-19T15:26:00.208Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | 
+api stopped
+INFO 2023-01-19T15:26:00.217Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db disconnected
+INFO 2023-01-19T15:26:03.183Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db connected
+INFO 2023-01-19T15:26:16.338Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | 
+api stopped
+INFO 2023-01-19T15:26:16.351Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db disconnected
+INFO 2023-01-19T15:26:19.224Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db connected
+INFO 2023-01-19T15:26:19.308Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | api v1.0.0 started and listening in port 8080
+INFO 2023-01-19T15:26:26.716Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | 
+api stopped
+INFO 2023-01-19T15:26:26.720Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db disconnected
+INFO 2023-01-19T15:26:28.366Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db connected
+INFO 2023-01-19T15:27:57.596Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db connected
+INFO 2023-01-19T15:27:57.686Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | api v1.0.0 started and listening in port 8080
+INFO 2023-01-19T15:38:37.432Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db connected
+INFO 2023-01-19T15:38:37.515Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | api v1.0.0 started and listening in port 8080
+INFO 2023-01-19T15:49:23.777Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | 
+api stopped
+INFO 2023-01-19T15:49:23.782Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db disconnected
+INFO 2023-01-19T16:05:47.273Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db connected
+INFO 2023-01-19T16:05:47.366Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | api v1.0.0 started and listening in port 8080
+ERROR 2023-01-19T16:06:47.067Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\authenticateUserHandler.js | email is not a string
+ERROR 2023-01-19T16:07:41.089Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\authenticateUserHandler.js | email is not a string
+ERROR 2023-01-19T16:08:45.255Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\authenticateUserHandler.js | email is not a string
+ERROR 2023-01-19T16:09:41.726Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\authenticateUserHandler.js | email is not a string
+ERROR 2023-01-23T11:39:22.955Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | connect ECONNREFUSED 127.0.0.1:27017
+INFO 2023-01-23T11:40:47.793Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db connected
+INFO 2023-01-23T11:40:47.916Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | api v1.0.0 started and listening in port 8080
+ERROR 2023-01-23T15:29:16.848Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\registerUserHandler.js | user already exists
+ERROR 2023-01-23T15:29:19.038Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\registerUserHandler.js | user already exists
+ERROR 2023-01-23T15:29:58.942Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\registerUserHandler.js | user already exists
+ERROR 2023-01-23T15:30:21.504Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\authenticateUserHandler.js | user with email cindi@entes.com not found
+ERROR 2023-01-23T15:30:32.072Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\authenticateUserHandler.js | user with email cindi@entes.com not found
+ERROR 2023-01-23T15:47:00.096Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\registerUserHandler.js | user already exists
+ERROR 2023-01-23T15:47:18.700Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\registerUserHandler.js | user already exists
+ERROR 2023-01-23T16:01:31.334Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\registerUserHandler.js | user already exists
+INFO 2023-01-23T16:49:12.063Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | 
+api stopped
+INFO 2023-01-23T16:49:14.360Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db connected
+ERROR 2023-01-23T16:49:14.486Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | Cannot find module '../models'
+Require stack:
+- C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\logic\users\updatePasswordUser\index.js
+- C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\logic\users\index.js
+- C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\logic\index.js
+- C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\authenticateUserHandler.js
+- C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\index.js
+- C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\index.js
+- C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js
+INFO 2023-01-23T16:51:55.292Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db connected
+ERROR 2023-01-23T16:51:55.383Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | Cannot find module '../models'
+Require stack:
+- C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\logic\users\updatePasswordUser\index.js
+- C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\logic\users\index.js
+- C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\logic\index.js
+- C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\authenticateUserHandler.js
+- C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\index.js
+- C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\index.js
+- C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js
+INFO 2023-01-23T16:54:54.471Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db connected
+ERROR 2023-01-23T16:54:54.568Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | Cannot find module '../../logger'
+Require stack:
+- C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\updateUserPasswordHandler.js
+- C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\index.js
+- C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\index.js
+- C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js
+INFO 2023-01-23T16:56:49.705Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db connected
+ERROR 2023-01-23T16:56:49.783Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | require(...) is not a function
+INFO 2023-01-23T16:57:00.303Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db connected
+ERROR 2023-01-23T16:57:00.378Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | require(...) is not a function
+INFO 2023-01-23T16:59:13.103Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db connected
+ERROR 2023-01-23T16:59:13.179Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | require(...) is not a function
+INFO 2023-01-23T17:22:07.635Z undefined | db connected
+INFO 2023-01-23T17:22:07.712Z undefined | api v1.0.0 started and listening in port 8080
+ERROR 2023-01-23T17:22:12.005Z undefined | user with email manuel@castilla.com not found
+ERROR 2023-01-23T17:24:53.355Z undefined | user with email manuel@castilla.com not found
+ERROR 2023-01-23T17:24:58.503Z undefined | user with email manuel@castilla.com not found
+ERROR 2023-01-23T17:25:02.046Z undefined | user with email manuel@castilla.com not found
+INFO 2023-01-23T18:25:36.132Z undefined | 
+api stopped
+INFO 2023-01-23T18:25:36.137Z undefined | db disconnected
+INFO 2023-01-23T18:25:38.162Z undefined | db connected
+ERROR 2023-01-23T18:25:38.248Z undefined | require(...) is not a function
+INFO 2023-01-23T18:26:21.769Z undefined | db connected
+INFO 2023-01-23T18:26:21.847Z undefined | api v1.0.0 started and listening in port 8080
+INFO 2023-01-23T18:27:56.593Z undefined | 
+api stopped
+INFO 2023-01-23T18:27:56.599Z undefined | db disconnected
+INFO 2023-01-23T18:27:58.259Z undefined | db connected
+ERROR 2023-01-23T18:27:58.334Z undefined | require(...) is not a function
+INFO 2023-01-23T18:28:46.242Z undefined | db connected
+ERROR 2023-01-23T18:28:46.324Z undefined | require(...) is not a function
+INFO 2023-01-23T18:29:07.480Z undefined | db connected
+ERROR 2023-01-23T18:29:07.551Z undefined | require(...) is not a function
+INFO 2023-01-23T18:30:17.341Z undefined | db connected
+ERROR 2023-01-23T18:30:17.419Z undefined | require(...) is not a function
+INFO 2023-01-23T18:30:45.058Z undefined | db connected
+ERROR 2023-01-23T18:30:45.127Z undefined | Cannot find module '../../logic/updateUserPassword'
+Require stack:
+- C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\updateUserPasswordHandler.js
+- C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\index.js
+- C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\index.js
+- C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js
+INFO 2023-01-23T18:32:00.922Z undefined | db connected
+INFO 2023-01-23T18:32:01.002Z undefined | api v1.0.0 started and listening in port 8080
+INFO 2023-01-23T18:33:58.008Z undefined | db connected
+INFO 2023-01-23T18:33:58.096Z undefined | api v1.0.0 started and listening in port 8080
+INFO 2023-01-23T19:12:47.850Z undefined | db connected
+INFO 2023-01-23T19:12:47.929Z undefined | api v1.0.0 started and listening in port 8080
+INFO 2023-01-23T19:13:37.561Z undefined | db connected
+INFO 2023-01-23T19:13:37.640Z undefined | api v1.0.0 started and listening in port 8080
+INFO 2023-01-23T20:25:47.786Z undefined | db connected
+INFO 2023-01-23T20:25:47.902Z undefined | api v1.0.0 started and listening in port 8080
+ERROR 2023-01-23T20:25:54.179Z undefined | jwt expired
+ERROR 2023-01-23T20:25:58.544Z undefined | jwt expired
+ERROR 2023-01-23T20:25:58.549Z undefined | jwt expired
+ERROR 2023-01-23T20:25:58.547Z undefined | jwt expired
+ERROR 2023-01-23T20:25:58.552Z undefined | jwt expired
+INFO 2023-01-24T09:35:27.543Z undefined | db connected
+INFO 2023-01-24T09:35:27.656Z undefined | api v1.0.0 started and listening in port 8080
+ERROR 2023-01-24T09:35:31.983Z undefined | jwt expired
+ERROR 2023-01-24T09:35:31.985Z undefined | jwt expired
+ERROR 2023-01-24T09:35:31.986Z undefined | jwt expired
+ERROR 2023-01-24T09:35:31.987Z undefined | jwt expired
+INFO 2023-01-24T09:36:36.405Z undefined | db connected
+INFO 2023-01-24T09:36:36.483Z undefined | api v1.0.0 started and listening in port 8080
+INFO 2023-01-24T09:37:05.198Z undefined | 
+api stopped
+INFO 2023-01-24T09:37:05.217Z undefined | db disconnected
+INFO 2023-01-24T09:37:06.839Z undefined | db connected
+INFO 2023-01-24T09:37:06.914Z undefined | api v1.0.0 started and listening in port 8080
+INFO 2023-01-24T09:42:34.843Z undefined | db connected
+INFO 2023-01-24T09:42:34.919Z undefined | api v1.0.0 started and listening in port 8080
+INFO 2023-01-24T09:47:20.237Z undefined | db connected
+INFO 2023-01-24T09:47:20.314Z undefined | api v1.0.0 started and listening in port 8080
+INFO 2023-01-24T09:53:15.420Z undefined | 
+api stopped
+INFO 2023-01-24T09:53:15.425Z undefined | db disconnected
+INFO 2023-01-24T09:53:18.101Z undefined | db connected
+INFO 2023-01-24T09:53:18.180Z undefined | api v1.0.0 started and listening in port 8080
+INFO 2023-01-24T09:56:22.305Z undefined | 
+api stopped
+INFO 2023-01-24T09:56:22.317Z undefined | db disconnected
+INFO 2023-01-24T09:56:24.382Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db connected
+INFO 2023-01-24T09:56:24.457Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | api v1.0.0 started and listening in port 8080
+INFO 2023-01-24T10:13:28.477Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | 
+api stopped
+INFO 2023-01-24T10:13:28.487Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db disconnected
+INFO 2023-01-24T10:13:30.819Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db connected
+INFO 2023-01-24T10:13:30.910Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | api v1.0.0 started and listening in port 8080
+INFO 2023-01-24T10:23:51.834Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db connected
+INFO 2023-01-24T10:23:51.940Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | api v1.0.0 started and listening in port 8080
+INFO 2023-01-24T10:33:12.338Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db connected
+INFO 2023-01-24T10:33:12.433Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | api v1.0.0 started and listening in port 8080
+INFO 2023-01-24T10:37:53.444Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db connected
+INFO 2023-01-24T10:37:53.561Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | api v1.0.0 started and listening in port 8080
+INFO 2023-01-24T10:41:31.845Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db connected
+INFO 2023-01-24T10:41:31.942Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | api v1.0.0 started and listening in port 8080
+INFO 2023-01-24T11:02:02.876Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db connected
+INFO 2023-01-24T11:02:02.973Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | api v1.0.0 started and listening in port 8080
+INFO 2023-01-24T11:05:09.385Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | 
+api stopped
+INFO 2023-01-24T11:05:09.393Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db disconnected
+INFO 2023-01-24T11:05:11.569Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db connected
+INFO 2023-01-24T11:05:11.661Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | api v1.0.0 started and listening in port 8080
+ERROR 2023-01-24T11:05:17.210Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\updateUserPasswordHandler.js | updateUserPassword is not a function
+INFO 2023-01-24T11:06:34.473Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | 
+api stopped
+INFO 2023-01-24T11:06:34.483Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db disconnected
+INFO 2023-01-24T11:06:36.712Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db connected
+INFO 2023-01-24T11:06:36.804Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | api v1.0.0 started and listening in port 8080
+ERROR 2023-01-24T11:06:41.732Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\updateUserPasswordHandler.js | updateUserPassword is not a function
+INFO 2023-01-24T11:07:58.778Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | 
+api stopped
+INFO 2023-01-24T11:07:58.785Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db disconnected
+INFO 2023-01-24T11:08:00.897Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db connected
+INFO 2023-01-24T11:08:01.004Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | api v1.0.0 started and listening in port 8080
+ERROR 2023-01-24T11:08:03.895Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\updateUserPasswordHandler.js | password is not a string
+INFO 2023-01-24T11:09:42.560Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | 
+api stopped
+INFO 2023-01-24T11:09:42.567Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db disconnected
+INFO 2023-01-24T11:09:44.761Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db connected
+INFO 2023-01-24T11:09:44.858Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | api v1.0.0 started and listening in port 8080
+ERROR 2023-01-24T11:09:48.520Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\updateUserPasswordHandler.js | validateToken is not a function
+INFO 2023-01-24T11:10:48.839Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | 
+api stopped
+INFO 2023-01-24T11:10:48.850Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db disconnected
+INFO 2023-01-24T11:10:50.736Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db connected
+INFO 2023-01-24T11:10:50.845Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | api v1.0.0 started and listening in port 8080
+ERROR 2023-01-24T11:10:53.116Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\updateUserPasswordHandler.js | User undefined does not exists or credentials are wrong
+INFO 2023-01-24T11:11:44.579Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | 
+api stopped
+INFO 2023-01-24T11:11:44.587Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db disconnected
+INFO 2023-01-24T11:11:46.563Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db connected
+INFO 2023-01-24T11:11:46.668Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | api v1.0.0 started and listening in port 8080
+ERROR 2023-01-24T11:12:00.956Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\updateUserPasswordHandler.js | User undefined does not exists or credentials are wrong
+INFO 2023-01-24T11:12:41.557Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | 
+api stopped
+INFO 2023-01-24T11:12:41.568Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db disconnected
+INFO 2023-01-24T11:12:43.678Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db connected
+INFO 2023-01-24T11:12:43.772Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | api v1.0.0 started and listening in port 8080
+ERROR 2023-01-24T11:12:48.854Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\updateUserPasswordHandler.js | password is not a string
+INFO 2023-01-24T11:13:18.228Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | 
+api stopped
+INFO 2023-01-24T11:13:18.237Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db disconnected
+INFO 2023-01-24T11:13:20.788Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db connected
+INFO 2023-01-24T11:13:20.886Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | api v1.0.0 started and listening in port 8080
+ERROR 2023-01-24T11:13:22.087Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\updateUserPasswordHandler.js | User undefined does not exists or credentials are wrong
+INFO 2023-01-24T11:13:39.840Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | 
+api stopped
+INFO 2023-01-24T11:13:39.846Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db disconnected
+INFO 2023-01-24T11:14:15.968Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db connected
+INFO 2023-01-24T11:14:16.062Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | api v1.0.0 started and listening in port 8080
+INFO 2023-01-24T11:20:32.668Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db connected
+ERROR 2023-01-24T11:20:51.855Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\updateUserPasswordHandler.js | User undefined does not exists or credentials are wrong
+INFO 2023-01-24T11:20:51.869Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | 
+api stopped
+INFO 2023-01-24T11:20:51.906Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db disconnected
+INFO 2023-01-24T11:20:56.694Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db connected
+INFO 2023-01-24T11:20:56.797Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | api v1.0.0 started and listening in port 8080
+ERROR 2023-01-24T11:21:16.344Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\updateUserPasswordHandler.js | User undefined does not exists or credentials are wrong
+INFO 2023-01-24T11:21:58.433Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | 
+api stopped
+INFO 2023-01-24T11:22:00.382Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db connected
+ERROR 2023-01-24T11:22:00.526Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | await is only valid in async functions and the top level bodies of modules
+INFO 2023-01-24T11:22:24.807Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db connected
+INFO 2023-01-24T11:22:24.908Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | api v1.0.0 started and listening in port 8080
+ERROR 2023-01-24T11:22:28.436Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\updateUserPasswordHandler.js | User undefined does not exists or credentials are wrong
+INFO 2023-01-24T11:53:32.716Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | 
+api stopped
+INFO 2023-01-24T11:53:32.727Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db disconnected
+INFO 2023-01-24T11:53:35.166Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db connected
+INFO 2023-01-24T11:53:35.344Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | api v1.0.0 started and listening in port 8080
+INFO 2023-01-24T11:57:49.674Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | 
+api stopped
+INFO 2023-01-24T11:57:49.683Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db disconnected
+INFO 2023-01-24T11:57:51.846Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db connected
+INFO 2023-01-24T11:57:51.973Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | api v1.0.0 started and listening in port 8080
+INFO 2023-01-24T12:01:08.358Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | 
+api stopped
+INFO 2023-01-24T12:01:08.363Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db disconnected
+INFO 2023-01-24T12:01:10.495Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db connected
+INFO 2023-01-24T12:01:10.601Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | api v1.0.0 started and listening in port 8080
+INFO 2023-01-24T12:09:28.083Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | 
+api stopped
+INFO 2023-01-24T12:09:28.089Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db disconnected
+INFO 2023-01-24T12:09:30.864Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db connected
+INFO 2023-01-24T12:09:31.007Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | api v1.0.0 started and listening in port 8080
+ERROR 2023-01-24T12:10:38.993Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\updateUserPasswordHandler.js | User undefined does not exists or credentials are wrong
+ERROR 2023-01-24T12:11:02.933Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\updateUserPasswordHandler.js | User undefined does not exists or credentials are wrong
+INFO 2023-01-24T12:11:27.958Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | 
+api stopped
+INFO 2023-01-24T12:11:27.985Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db disconnected
+INFO 2023-01-24T12:11:33.993Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db connected
+INFO 2023-01-24T12:11:34.146Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | api v1.0.0 started and listening in port 8080
+INFO 2023-01-24T12:16:14.281Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db connected
+INFO 2023-01-24T12:16:18.451Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | 
+api stopped
+ERROR 2023-01-24T12:16:18.459Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\updateUserPasswordHandler.js | User undefined does not exists or credentials are wrong
+INFO 2023-01-24T12:16:18.461Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db disconnected
+INFO 2023-01-24T12:16:21.835Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db connected
+INFO 2023-01-24T12:16:21.925Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | api v1.0.0 started and listening in port 8080
+ERROR 2023-01-24T12:16:24.444Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\updateUserPasswordHandler.js | password is not a string
+INFO 2023-01-24T12:27:23.794Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | 
+api stopped
+INFO 2023-01-24T12:27:23.799Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db disconnected
+INFO 2023-01-24T12:27:25.669Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db connected
+INFO 2023-01-24T12:27:25.756Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | api v1.0.0 started and listening in port 8080
+INFO 2023-01-24T12:33:52.619Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | 
+api stopped
+INFO 2023-01-24T12:33:52.630Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db disconnected
+INFO 2023-01-24T12:33:54.500Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db connected
+INFO 2023-01-24T12:33:54.585Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | api v1.0.0 started and listening in port 8080
+INFO 2023-01-24T12:40:38.426Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | 
+api stopped
+INFO 2023-01-24T12:40:38.433Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db disconnected
+INFO 2023-01-24T12:40:40.207Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db connected
+INFO 2023-01-24T12:40:40.301Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | api v1.0.0 started and listening in port 8080
+ERROR 2023-01-24T12:47:04.223Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\authenticateUserHandler.js | wrong password
+ERROR 2023-01-24T12:47:04.744Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\authenticateUserHandler.js | wrong password
+INFO 2023-01-24T13:03:27.673Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | 
+api stopped
+INFO 2023-01-24T13:03:27.678Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db disconnected
+INFO 2023-01-24T13:03:29.636Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db connected
+ERROR 2023-01-24T13:03:29.727Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | Route.patch() requires a callback function but got a [object Undefined]
+INFO 2023-01-24T13:07:38.916Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db connected
+INFO 2023-01-24T13:07:39.004Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | api v1.0.0 started and listening in port 8080
+INFO 2023-01-24T13:11:03.178Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | 
+api stopped
+INFO 2023-01-24T13:11:03.196Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db disconnected
+INFO 2023-01-24T13:11:04.862Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db connected
+INFO 2023-01-24T13:11:04.949Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | api v1.0.0 started and listening in port 8080
+ERROR 2023-01-24T13:17:24.283Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\notes\deleteNoteHandler.js | deleteNote is not a function
+ERROR 2023-01-24T13:17:33.244Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\notes\deleteNoteHandler.js | deleteNote is not a function
+ERROR 2023-01-24T13:18:22.765Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\notes\deleteNoteHandler.js | deleteNote is not a function
+INFO 2023-01-24T13:18:26.904Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | 
+api stopped
+INFO 2023-01-24T13:18:26.920Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db disconnected
+INFO 2023-01-24T13:18:31.992Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db connected
+INFO 2023-01-24T13:18:32.081Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | api v1.0.0 started and listening in port 8080
+ERROR 2023-01-24T13:20:08.356Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\notes\deleteNoteHandler.js | deleteNote is not a function
+INFO 2023-01-24T13:22:22.867Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | 
+api stopped
+INFO 2023-01-24T13:22:22.876Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db disconnected
+INFO 2023-01-24T13:22:25.495Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db connected
+INFO 2023-01-24T13:22:34.546Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db connected
+INFO 2023-01-24T13:22:34.690Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | api v1.0.0 started and listening in port 8080
+ERROR 2023-01-24T13:22:37.310Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\notes\deleteNoteHandler.js | deleteNote is not a function
+ERROR 2023-01-24T13:23:35.284Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\notes\deleteNoteHandler.js | deleteNote is not a function
+INFO 2023-01-24T13:23:39.355Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | 
+api stopped
+INFO 2023-01-24T13:23:39.364Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db disconnected
+INFO 2023-01-24T13:23:42.558Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db connected
+INFO 2023-01-24T13:23:42.675Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | api v1.0.0 started and listening in port 8080
+ERROR 2023-01-24T13:23:44.789Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\notes\deleteNoteHandler.js | note with id 63cfd823a3591a52706bb9bf does not belong to user with id 63c93f53144be8d582143f93
+ERROR 2023-01-24T13:24:26.382Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\notes\deleteNoteHandler.js | note with id 63cfd823a3591a52706bb9bf does not belong to user with id 63c93f53144be8d582143f93
+ERROR 2023-01-24T13:26:08.779Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\notes\deleteNoteHandler.js | note with id 63cfd823a3591a52706bb9bf does not belong to user with id 63c93f53144be8d582143f93
+INFO 2023-01-24T13:26:15.703Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | 
+api stopped
+INFO 2023-01-24T13:26:15.711Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db disconnected
+INFO 2023-01-24T13:26:19.592Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db connected
+INFO 2023-01-24T13:26:19.801Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | api v1.0.0 started and listening in port 8080
+ERROR 2023-01-24T13:29:34.906Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\notes\deleteNoteHandler.js | note with id 63cfd823a3591a52706bb9bf does not belong to user with id 63c93f53144be8d582143f93
+INFO 2023-01-24T13:32:06.489Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | 
+api stopped
+INFO 2023-01-24T13:32:06.501Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db disconnected
+INFO 2023-01-24T13:32:10.056Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db connected
+INFO 2023-01-24T13:32:17.985Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db connected
+INFO 2023-01-24T13:32:18.112Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | api v1.0.0 started and listening in port 8080
+INFO 2023-01-24T14:04:27.073Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | 
+api stopped
+INFO 2023-01-24T14:04:27.080Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db disconnected
+INFO 2023-01-24T14:04:29.906Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db connected
+INFO 2023-01-24T14:04:30.087Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | api v1.0.0 started and listening in port 8080
+INFO 2023-01-24T14:18:34.315Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | 
+api stopped
+INFO 2023-01-24T14:18:34.333Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db disconnected
+INFO 2023-01-24T14:18:37.030Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db connected
+INFO 2023-01-24T14:18:37.144Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | api v1.0.0 started and listening in port 8080
+ERROR 2023-01-24T14:30:39.825Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\retrieveUserHandler.js | jwt malformed
+ERROR 2023-01-24T14:32:07.601Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\notes\updateNoteTextHandler.js | string is not a string
+ERROR 2023-01-24T14:32:45.161Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\notes\updateNoteTextHandler.js | string is not a string
+ERROR 2023-01-24T14:34:40.248Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\notes\updateNoteTextHandler.js | string is not a string
+ERROR 2023-01-24T15:29:20.446Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\retrieveUserHandler.js | jwt expired
+ERROR 2023-01-24T15:29:20.447Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\notes\retrieveNotesHandler.js | jwt expired
+INFO 2023-01-24T15:47:05.155Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | 
+api stopped
+INFO 2023-01-24T15:47:05.162Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db disconnected
+INFO 2023-01-24T15:47:07.013Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db connected
+INFO 2023-01-24T15:47:07.109Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | api v1.0.0 started and listening in port 8080
+INFO 2023-01-24T15:50:02.566Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | 
+api stopped
+INFO 2023-01-24T15:50:02.570Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db disconnected
+INFO 2023-01-24T15:50:07.354Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db connected
+INFO 2023-01-24T15:50:07.449Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | api v1.0.0 started and listening in port 8080
+INFO 2023-01-24T15:50:17.279Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | 
+api stopped
+INFO 2023-01-24T15:50:17.284Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db disconnected
+INFO 2023-01-24T15:50:19.820Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db connected
+INFO 2023-01-24T15:50:19.906Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | api v1.0.0 started and listening in port 8080
+ERROR 2023-01-24T16:02:45.729Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\updateUserPasswordHandler.js | userId is not defined
+INFO 2023-01-24T16:11:21.334Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | 
+api stopped
+INFO 2023-01-24T16:11:21.351Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db disconnected
+INFO 2023-01-24T16:11:24.297Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db connected
+INFO 2023-01-24T16:11:24.425Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | api v1.0.0 started and listening in port 8080
+INFO 2023-01-24T16:11:29.716Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\updateUserPasswordHandler.js | User: undefined updated his password succesfully
+INFO 2023-01-24T16:14:58.077Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db connected
+INFO 2023-01-24T16:14:58.194Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | api v1.0.0 started and listening in port 8080
+INFO 2023-01-24T16:15:01.386Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\updateUserPasswordHandler.js | User: undefined updated his password succesfully
+INFO 2023-01-24T16:15:27.989Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db connected
+INFO 2023-01-24T16:15:28.168Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | api v1.0.0 started and listening in port 8080
+INFO 2023-01-24T16:15:57.771Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\updateUserPasswordHandler.js | User: undefined updated his password succesfully
+INFO 2023-01-24T16:25:41.939Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db connected
+INFO 2023-01-24T16:25:42.059Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | api v1.0.0 started and listening in port 8080
+ERROR 2023-01-24T16:25:47.404Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\updateUserPasswordHandler.js | password is not a string
+INFO 2023-01-24T16:26:59.712Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | 
+api stopped
+INFO 2023-01-24T16:26:59.718Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db disconnected
+INFO 2023-01-24T16:27:05.300Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db connected
+INFO 2023-01-24T16:27:05.438Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | api v1.0.0 started and listening in port 8080
+ERROR 2023-01-24T16:35:13.037Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\updateUserPasswordHandler.js | password is not a string
+INFO 2023-01-24T16:35:13.071Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | 
+api stopped
+INFO 2023-01-24T16:35:13.088Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db disconnected
+INFO 2023-01-24T16:35:18.299Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db connected
+INFO 2023-01-24T16:35:18.492Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | api v1.0.0 started and listening in port 8080
+ERROR 2023-01-24T16:36:59.990Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\updateUserPasswordHandler.js | password is not a string
+INFO 2023-01-24T16:37:00.074Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | 
+api stopped
+INFO 2023-01-24T16:37:00.088Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db disconnected
+INFO 2023-01-24T16:37:05.408Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db connected
+INFO 2023-01-24T16:37:05.527Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | api v1.0.0 started and listening in port 8080
+INFO 2023-01-24T16:42:43.135Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | 
+api stopped
+INFO 2023-01-24T16:42:43.143Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db disconnected
+INFO 2023-01-24T16:42:54.103Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db connected
+INFO 2023-01-24T16:43:03.845Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db connected
+INFO 2023-01-24T16:43:03.975Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | api v1.0.0 started and listening in port 8080
+INFO 2023-01-24T16:46:22.600Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | 
+api stopped
+INFO 2023-01-24T16:46:27.352Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db connected
+INFO 2023-01-24T16:46:27.445Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | api v1.0.0 started and listening in port 8080
+INFO 2023-01-24T16:47:21.471Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | 
+api stopped
+INFO 2023-01-24T16:47:21.478Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db disconnected
+INFO 2023-01-24T16:47:23.848Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db connected
+INFO 2023-01-24T16:47:23.954Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | api v1.0.0 started and listening in port 8080
+INFO 2023-01-24T16:48:28.635Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | 
+api stopped
+INFO 2023-01-24T16:48:28.640Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db disconnected
+INFO 2023-01-24T16:48:30.580Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db connected
+INFO 2023-01-24T16:48:30.727Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | api v1.0.0 started and listening in port 8080
+INFO 2023-01-24T16:49:28.517Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | 
+api stopped
+INFO 2023-01-24T16:49:28.522Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db disconnected
+INFO 2023-01-24T16:49:31.260Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db connected
+INFO 2023-01-24T16:49:31.379Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | api v1.0.0 started and listening in port 8080
+ERROR 2023-01-24T16:49:46.288Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\authenticateUserHandler.js | wrong password
+ERROR 2023-01-24T16:53:36.525Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\authenticateUserHandler.js | wrong password
+INFO 2023-01-24T16:58:39.984Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | 
+api stopped
+INFO 2023-01-24T16:58:39.990Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db disconnected
+INFO 2023-01-24T16:58:42.412Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db connected
+INFO 2023-01-24T16:58:42.510Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | api v1.0.0 started and listening in port 8080
+ERROR 2023-01-24T18:25:42.147Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\notes\deleteNoteHandler.js | jwt expired
+INFO 2023-01-25T10:39:53.337Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | 
+api stopped
+INFO 2023-01-25T10:39:53.363Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db disconnected
+INFO 2023-01-25T10:39:55.762Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db connected
+INFO 2023-01-25T10:39:55.911Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | api v1.0.0 started and listening in port 8080
+ERROR 2023-01-25T10:40:09.718Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\authenticateUserHandler.js | user with email cindi@entes.com not found
+ERROR 2023-01-25T10:40:10.303Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\authenticateUserHandler.js | user with email cindi@entes.com not found
+ERROR 2023-01-25T10:40:15.981Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\authenticateUserHandler.js | user with email cindi@entes.com not found
+ERROR 2023-01-25T10:40:44.646Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\authenticateUserHandler.js | user with email cindi@entes.com not found
+ERROR 2023-01-25T10:50:03.808Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\notes\deleteNoteHandler.js | note with id 63d1073c84b9c6bf245678bb not found
+INFO 2023-01-25T10:54:50.760Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | 
+api stopped
+INFO 2023-01-25T10:54:50.764Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db disconnected
+INFO 2023-01-25T10:54:53.659Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db connected
+INFO 2023-01-25T10:54:53.747Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | api v1.0.0 started and listening in port 8080
+ERROR 2023-01-25T10:55:10.431Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\authenticateUserHandler.js | wrong password
+INFO 2023-01-25T10:57:18.091Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | 
+api stopped
+INFO 2023-01-25T10:57:18.097Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db disconnected
+INFO 2023-01-25T10:57:20.161Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db connected
+INFO 2023-01-25T10:57:20.252Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | api v1.0.0 started and listening in port 8080
+INFO 2023-01-25T11:01:25.986Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | 
+api stopped
+ERROR 2023-01-25T11:01:25.993Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\retrieveUserHandler.js | Client must be connected before running operations
+ERROR 2023-01-25T11:01:25.994Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\notes\retrieveNotesHandler.js | Client must be connected before running operations
+INFO 2023-01-25T11:01:25.995Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db disconnected
+INFO 2023-01-25T11:02:51.205Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db connected
+INFO 2023-01-25T11:02:51.291Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | api v1.0.0 started and listening in port 8080
+ERROR 2023-01-25T11:02:55.338Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\users\authenticateUserHandler.js | wrong password
+ERROR 2023-01-25T11:07:11.897Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\routes\notes\deleteNoteHandler.js | note with id 63d10d57428c1ca0fb4562a9 not found
+INFO 2023-01-25T11:24:17.292Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | 
+api stopped
+INFO 2023-01-25T11:24:17.295Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db disconnected
