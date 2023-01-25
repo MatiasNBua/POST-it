@@ -1,8 +1,6 @@
 import Loggito from '../utils/Loggito'
 import registerUser from '../logic/registerUser'
 import withContext from '../utils/withContext'
-import { DuplicityError } from 'errors'
-
 
 function RegisterPage({ onLinkClick, context: {handleFeedback} }) {
     const logger = new Loggito(RegisterPage.name)

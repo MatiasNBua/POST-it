@@ -1,5 +1,4 @@
 import { validateCallbacks, validateString, validateText } from "validators"
-import { ClientError, ServerError } from "errors"
 
 const API_URL = process.env.REACT_APP_API_URL
 
@@ -9,7 +8,7 @@ function updateNoteText(token, noteId, text, callback) {
     validateCallbacks(callback)
 
 
-    const xhr = new XMLHttpRequest
+    const xhr = new XMLHttpRequest();
     
     // response
     xhr.onload = function () {

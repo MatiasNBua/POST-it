@@ -605,3 +605,10 @@ ERROR 2023-01-25T11:07:11.897Z undefined/C:\Users\Matias N\workspace\neoland-boo
 INFO 2023-01-25T11:24:17.292Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | 
 api stopped
 INFO 2023-01-25T11:24:17.295Z undefined/C:\Users\Matias N\workspace\neoland-bootcamp-202207\staff\matias-bua\postits\api\src\index.js | db disconnected
+INFO 2023-01-25T17:09:18.262Z undefined/C:\Users\Matias N\workspace\PostitsWeb\postits\api\src\index.js | db connected
+INFO 2023-01-25T17:09:18.370Z undefined/C:\Users\Matias N\workspace\PostitsWeb\postits\api\src\index.js | api v1.0.0 started and listening in port 8080
+ERROR 2023-01-25T17:10:09.260Z undefined/C:\Users\Matias N\workspace\PostitsWeb\postits\api\src\routes\users\authenticateUserHandler.js | user with email cindi@entes.com not found
+ERROR 2023-01-25T17:10:31.855Z undefined/C:\Users\Matias N\workspace\PostitsWeb\postits\api\src\routes\users\authenticateUserHandler.js | wrong password
+INFO 2023-01-25T17:20:34.306Z undefined/C:\Users\Matias N\workspace\PostitsWeb\postits\api\src\index.js | 
+api stopped
+INFO 2023-01-25T17:20:34.324Z undefined/C:\Users\Matias N\workspace\PostitsWeb\postits\api\src\index.js | db disconnected
