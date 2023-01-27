@@ -37,7 +37,7 @@ function updateUserPassword(token, oldPassword, newPassword, newPasswordRepeat, 
   xhr.setRequestHeader('Authorization', `Bearer ${token}`)
   xhr.setRequestHeader('Content-type', 'application/json')
 
-  const json = JSON.stringify({oldPassword,newPassword,newPasswordRepeat}) //   <- Aqui se pasa el objeto pero se transforma a JSON entonces no hace falta linea 44 y por eso la 41 no funciona
+  const json = JSON.stringify({ oldPassword,newPassword,newPasswordRepeat }) //   <- Aqui se pasa el objeto pero se transforma a JSON entonces no hace falta linea 44 y por eso la 41 no funciona
 //   const json = JSON.stringify(`{"oldPassword": "${oldPassword}", "newPassword": "${newPassword}", "newPasswordRepeat": "${newPasswordRepeat}"}`);
 
     xhr.send(json)

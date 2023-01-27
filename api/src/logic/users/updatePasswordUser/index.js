@@ -3,7 +3,6 @@ const { AuthError } = require('errors')
 const { validatePassword } = require('validators')
 
 function updateUserPassword(userId, oldPassword, newPassword, newPasswordRepeat){
-    debugger
     validatePassword(oldPassword, oldPassword)
     validatePassword(newPassword, newPassword)
     validatePassword(newPasswordRepeat, 'confirm new password')
