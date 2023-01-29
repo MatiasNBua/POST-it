@@ -615,3 +615,11 @@ INFO 2023-01-25T17:20:34.324Z undefined/C:\Users\Matias N\workspace\PostitsWeb\p
 INFO 2023-01-26T16:02:58.371Z undefined/C:\Users\Matias N\workspace\PostitsWeb\postits\api\src\index.js | db connected
 INFO 2023-01-26T16:02:58.509Z undefined/C:\Users\Matias N\workspace\PostitsWeb\postits\api\src\index.js | api v1.0.0 started and listening in port 8080
 ERROR 2023-01-26T16:03:16.894Z undefined/C:\Users\Matias N\workspace\PostitsWeb\postits\api\src\routes\users\authenticateUserHandler.js | wrong password
+INFO 2023-01-29T15:26:54.367Z undefined/C:\Users\Matias N\workspace\PostitsWeb\postits\api\src\index.js | db connected
+INFO 2023-01-29T15:26:54.502Z undefined/C:\Users\Matias N\workspace\PostitsWeb\postits\api\src\index.js | api v1.0.0 started and listening in port 8080
+ERROR 2023-01-29T15:51:19.238Z undefined/C:\Users\Matias N\workspace\PostitsWeb\postits\api\src\routes\users\authenticateUserHandler.js | user with email Buamatias@hotmail.com not found
+ERROR 2023-01-29T15:51:26.346Z undefined/C:\Users\Matias N\workspace\PostitsWeb\postits\api\src\routes\users\authenticateUserHandler.js | user with email buamatias@gmail.com not found
+ERROR 2023-01-29T15:51:29.538Z undefined/C:\Users\Matias N\workspace\PostitsWeb\postits\api\src\routes\users\authenticateUserHandler.js | user with email buamatias@gmail.com not found
+INFO 2023-01-29T17:24:50.083Z undefined/C:\Users\Matias N\workspace\PostitsWeb\postits\api\src\index.js | 
+api stopped
+INFO 2023-01-29T17:24:50.089Z undefined/C:\Users\Matias N\workspace\PostitsWeb\postits\api\src\index.js | db disconnected
